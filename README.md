@@ -106,7 +106,7 @@ WHERE
     AND 
     TO_CHAR(sale_date, 'Mon-YYYY') = 'Nov-2022'
     AND
-    quantity >= 3
+    quantity > 3
 ```
 
 3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
