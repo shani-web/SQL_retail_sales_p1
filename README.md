@@ -87,6 +87,9 @@ These Questions includes:
 3. Sales/Transaction Analysis
 4. Computed Columns / Aggregations etc.
 
+
+
+
 1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
 ```sql
 SELECT *
