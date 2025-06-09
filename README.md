@@ -126,7 +126,7 @@ FROM retail_sales
 WHERE category = 'Electronics'
 ```
 
-5. **Write a SQL query to find all transactions where the total_sale is greater than 1000 and gender is female. sort the results by category in ascending order**:
+5. **Write a SQL query to find all transactions where the total_sale is greater than 1000 and gender is female. Sort the results by category in ascending order**:
 ```sql
 SELECT * FROM retail_sales
 	WHERE total_sale >1000
