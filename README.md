@@ -85,8 +85,7 @@ These Questions includes:
 1. Date/Time Based
 2. Customer Demographics
 3. Sales/Transaction Analysis
-4. Computed Columns / Aggregations etc.
-
+4. Computed Columns / Aggregations etc
 
 
 
